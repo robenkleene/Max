@@ -168,11 +168,11 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-1::obj-18" : [ "Duration[1]", "Dur", 0 ],
+			"obj-1::obj-18" : [ "Duration", "Dur", 0 ],
 			"obj-1::obj-19" : [ "Velocity", "Vel", 0 ],
 			"obj-1::obj-20" : [ "Pitch", "Pitch", 0 ],
-			"obj-1::obj-21" : [ "live.button", "live.button", 0 ],
-			"obj-1::obj-22" : [ "live.text", "live.text", 0 ],
+			"obj-1::obj-21" : [ "Trigger", "Trigger", 0 ],
+			"obj-1::obj-22" : [ "NoteOff", "NoteOff", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
 					"index" : 0,
