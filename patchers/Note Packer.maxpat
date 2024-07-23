@@ -52,10 +52,10 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
-							"parameter_longname" : "live.text",
+							"parameter_longname" : "NoteOff",
 							"parameter_mmax" : 1.0,
 							"parameter_modmode" : 4,
-							"parameter_shortname" : "live.text",
+							"parameter_shortname" : "NoteOff",
 							"parameter_type" : 1
 						}
 
@@ -63,7 +63,7 @@
 ,
 					"text" : "Note Off",
 					"texton" : "Note Off",
-					"varname" : "live.text"
+					"varname" : "NoteOff"
 				}
 
 			}
@@ -81,16 +81,16 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "live.button",
+							"parameter_longname" : "Trigger",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_shortname" : "live.button",
+							"parameter_shortname" : "Trigger",
 							"parameter_type" : 2
 						}
 
 					}
 ,
-					"varname" : "live.button"
+					"varname" : "Trigger"
 				}
 
 			}
@@ -160,7 +160,7 @@
 					"presentation_rect" : [ 0.0, 64.0, 41.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_longname" : "Duration[1]",
+							"parameter_longname" : "Duration",
 							"parameter_mmax" : 10000.0,
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "Dur",
@@ -428,11 +428,11 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-18" : [ "Duration[1]", "Dur", 0 ],
+			"obj-18" : [ "Duration", "Dur", 0 ],
 			"obj-19" : [ "Velocity", "Vel", 0 ],
 			"obj-20" : [ "Pitch", "Pitch", 0 ],
-			"obj-21" : [ "live.button", "live.button", 0 ],
-			"obj-22" : [ "live.text", "live.text", 0 ],
+			"obj-21" : [ "Trigger", "Trigger", 0 ],
+			"obj-22" : [ "NoteOff", "NoteOff", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
 					"index" : 0,
