@@ -48,7 +48,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 96.0, 280.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 24.0, 0.0, 44.0, 15.0 ],
+					"presentation_rect" : [ 80.0, 8.0, 44.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
@@ -77,7 +77,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 8.0, 48.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 8.0, 0.0, 15.0, 15.0 ],
+					"presentation_rect" : [ 8.0, 8.0, 15.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -104,7 +104,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 24.0, 112.0, 41.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 16.0, 41.0, 48.0 ],
+					"presentation_rect" : [ 0.0, 56.0, 41.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "Pitch",
@@ -130,7 +130,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 72.0, 112.0, 41.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 32.0, 16.0, 41.0, 48.0 ],
+					"presentation_rect" : [ 40.0, 56.0, 41.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "Velocity",
@@ -157,7 +157,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 88.0, 176.0, 41.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 64.0, 41.0, 48.0 ],
+					"presentation_rect" : [ 80.0, 56.0, 41.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_longname" : "Duration",
